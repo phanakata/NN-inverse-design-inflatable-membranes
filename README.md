@@ -4,7 +4,7 @@ This package is still under developement. More features will be added soon.
 
 ## Paper 
 See our published paper: 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202111610" style="color:#268cd7"> 1. Antonio E. Forte, **Paul Z. Hanakata**, Lishuai Jin, Emilia Zari, Ahmad Zareei, Matheus C. Fernandes, Laura Sumner, Jonathan Alvarez, Katia Bertoldi, , "*Inverse design of inflatable soft membranes through machine learning*", Advanced Functional Materials, 202111610, (2022).</a>\\
+1. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202111610" style="color:#268cd7"> 1. Antonio E. Forte, **Paul Z. Hanakata**, Lishuai Jin, Emilia Zari, Ahmad Zareei, Matheus C. Fernandes, Laura Sumner, Jonathan Alvarez, Katia Bertoldi, , "*Inverse design of inflatable soft membranes through machine learning*", Advanced Functional Materials, 202111610, (2022).</a>\\
 
 ## Overview 
 This project's directory structure is as follows:
