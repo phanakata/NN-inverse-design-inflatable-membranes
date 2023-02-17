@@ -9,7 +9,11 @@ See our published paper:
 ## Overview 
 This project's directory structure is as follows:
 * ```models/```: Jupyter Notebook contains NN to perform inverse design (written in TensorFlow)
+<<<<<<< HEAD
 * ```data_handling/```: Jupyter Notebooks to handle user specified test data and to evaluate its accuracy
+=======
+
+>>>>>>> 0c123ef2a82d63ac2a22af7f44b79ffd36bba417
 ## To download 
 git clone https://github.com/phanakata/NN-inverse-design-inflatable-membranes
 
